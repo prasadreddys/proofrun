@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+proofrun-output/
+*.muse-github-snapshot-sync.json
